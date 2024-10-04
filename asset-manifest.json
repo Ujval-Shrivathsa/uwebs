@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/uwebs/static/css/main.fcb553b5.css",
+    "main.js": "/uwebs/static/js/main.6fc7ad2b.js",
+    "static/media/PortfolioImage3.png": "/uwebs/static/media/PortfolioImage3.ec2c15088febd5cd1838.png",
+    "static/media/PortfolioImage4.png": "/uwebs/static/media/PortfolioImage4.70ab196dede8245e5669.png",
+    "static/media/PortfolioImage2.png": "/uwebs/static/media/PortfolioImage2.b5ff898a49a113b23f26.png",
+    "static/media/globeVector.png": "/uwebs/static/media/globeVector.f0d68681960e8020ffb1.png",
+    "static/media/PortfolioImage1.png": "/uwebs/static/media/PortfolioImage1.3ddf73e40423b6c114fe.png",
+    "static/media/Logo.png": "/uwebs/static/media/Logo.3647406c450a86bcf3d4.png",
+    "static/media/Pic.png": "/uwebs/static/media/Pic.c6f9d4105289655101ef.png",
+    "static/media/Hero.png": "/uwebs/static/media/Hero.511f73d728e8927da733.png",
+    "static/media/doodlewebsite.avif": "/uwebs/static/media/doodlewebsite.25cce24486b8d14efdb5.avif",
+    "static/media/slick.svg": "/uwebs/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/uwebs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/uwebs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/uwebs/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/uwebs/index.html",
+    "main.fcb553b5.css.map": "/uwebs/static/css/main.fcb553b5.css.map",
+    "main.6fc7ad2b.js.map": "/uwebs/static/js/main.6fc7ad2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb553b5.css",
+    "static/js/main.6fc7ad2b.js"
+  ]
+}
